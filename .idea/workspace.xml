@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75f8ee4a-c4a3-4e04-bc4d-bab2615c95c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J2DEngine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/Character.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/Coord.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/Field.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/Fighter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/Game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/Pixel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/Projectile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/Sprite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/UCIDKeeper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/class-use/Character.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/class-use/Coord.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/class-use/Field.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/class-use/Fighter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/class-use/Game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/class-use/Pixel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/class-use/Projectile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/class-use/Sprite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/class-use/UCIDKeeper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/resources/inherit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/serialized-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CircularDoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FighterAI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrameScrollingField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pixel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Projectile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RPGClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RPGServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Script.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sparky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpriteSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UCIDKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/Archer_stand_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/Berserker_stand_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/Fighter_stand_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/Fighter_stand_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/Fighter_walk_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/Fighter_walk_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/Wizard_stand_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/blue_flower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/fighter/Fighter_stand_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/fighter/Fighter_stand_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/fighter/Fighter_walk_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/fighter/Fighter_walk_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/grassyfield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/l1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/l2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/red_flower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/scenarios/blank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/scenarios/grassyfield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/scenarios/l1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/scenarios/l2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/sparky/sparky_stand_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/sparky/sparky_stand_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/sparky/sparky_walk_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/sparky/sparky_walk_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/sword_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/sword_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/ten_shield_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/ten_shield_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/throwing_knife_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/throwing_knife_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/weapons/sword_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/weapons/sword_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/weapons/ten_shield_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/weapons/ten_shield_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/weapons/throwing_knife_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/weapons/throwing_knife_right.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PPF8KbCU5us2S0TA2fS67XZokk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75f8ee4a-c4a3-4e04-bc4d-bab2615c95c0" name="Changes" comment="" />
+      <created>1683350649917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683350649917</updated>
+    </task>
+    <servers />
+  </component>
+</project>
