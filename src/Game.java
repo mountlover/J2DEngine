@@ -89,7 +89,7 @@ public class Game extends JFrame implements KeyListener
      */
     public static void main(String[] args) 
     {
-        Game frame = new Game("2D JOGL Engine Demo by Yama H");
+        Game frame = new Game("J2DEngine Proof of Concept Demo");
         long time = System.currentTimeMillis();
         //this should be instantiated on a server
         FrameScrollingField[][] map = new FrameScrollingField[10][10];
